@@ -1,7 +1,7 @@
 # Machine Learning and Data Analytics in Python
 ------
 
-**Caveat:** This repository is under development.
+**Caveat:** This repository is not updated anymore.
 
 
 This repository provides python examples for better understanding of some fundamental machine learning tools. Currently it includes the following topics:
